@@ -1,0 +1,12 @@
+G:\Exam1.WebApplication\Exam1.Framework\bin\Debug\netcoreapp3.1\Exam1.Framework.deps.json
+G:\Exam1.WebApplication\Exam1.Framework\bin\Debug\netcoreapp3.1\Exam1.Framework.dll
+G:\Exam1.WebApplication\Exam1.Framework\obj\Debug\netcoreapp3.1\Exam1.Framework.csprojAssemblyReference.cache
+G:\Exam1.WebApplication\Exam1.Framework\obj\Debug\netcoreapp3.1\Exam1.Framework.AssemblyInfoInputs.cache
+G:\Exam1.WebApplication\Exam1.Framework\obj\Debug\netcoreapp3.1\Exam1.Framework.AssemblyInfo.cs
+G:\Exam1.WebApplication\Exam1.Framework\bin\Debug\netcoreapp3.1\Exam1.Framework.pdb
+G:\Exam1.WebApplication\Exam1.Framework\bin\Debug\netcoreapp3.1\Exam1.Data.dll
+G:\Exam1.WebApplication\Exam1.Framework\bin\Debug\netcoreapp3.1\Exam1.Data.pdb
+G:\Exam1.WebApplication\Exam1.Framework\obj\Debug\netcoreapp3.1\Exam1.Framework.csproj.CoreCompileInputs.cache
+G:\Exam1.WebApplication\Exam1.Framework\obj\Debug\netcoreapp3.1\Exam1.Framework.csproj.CopyComplete
+G:\Exam1.WebApplication\Exam1.Framework\obj\Debug\netcoreapp3.1\Exam1.Framework.dll
+G:\Exam1.WebApplication\Exam1.Framework\obj\Debug\netcoreapp3.1\Exam1.Framework.pdb
