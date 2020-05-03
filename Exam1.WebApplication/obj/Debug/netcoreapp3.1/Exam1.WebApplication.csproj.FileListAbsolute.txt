@@ -159,7 +159,6 @@ G:\Exam1.WebApplication\Exam1.WebApplication\bin\Debug\netcoreapp3.1\Exam1.Frame
 G:\Exam1.WebApplication\Exam1.WebApplication\bin\Debug\netcoreapp3.1\Exam1.Framework.pdb
 G:\Exam1.WebApplication\Exam1.WebApplication\bin\Debug\netcoreapp3.1\Exam1.Data.pdb
 G:\Exam1.WebApplication\Exam1.WebApplication\obj\Debug\netcoreapp3.1\Exam1.WebApplication.csproj.CoreCompileInputs.cache
-G:\Exam1.WebApplication\Exam1.WebApplication\obj\Debug\netcoreapp3.1\Exam1.WebApplication.MvcApplicationPartsAssemblyInfo.cs
 G:\Exam1.WebApplication\Exam1.WebApplication\obj\Debug\netcoreapp3.1\Exam1.WebApplication.MvcApplicationPartsAssemblyInfo.cache
 G:\Exam1.WebApplication\Exam1.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Student\Create.cshtml.g.cs
 G:\Exam1.WebApplication\Exam1.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Subject\Create.cshtml.g.cs

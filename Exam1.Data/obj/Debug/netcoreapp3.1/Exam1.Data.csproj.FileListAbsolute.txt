@@ -1,6 +1,5 @@
 G:\Exam1.WebApplication\Exam1.Data\bin\Debug\netcoreapp3.1\Exam1.Data.deps.json
 G:\Exam1.WebApplication\Exam1.Data\bin\Debug\netcoreapp3.1\Exam1.Data.dll
-G:\Exam1.WebApplication\Exam1.Data\obj\Debug\netcoreapp3.1\Exam1.Data.csprojAssemblyReference.cache
 G:\Exam1.WebApplication\Exam1.Data\obj\Debug\netcoreapp3.1\Exam1.Data.AssemblyInfoInputs.cache
 G:\Exam1.WebApplication\Exam1.Data\obj\Debug\netcoreapp3.1\Exam1.Data.AssemblyInfo.cs
 G:\Exam1.WebApplication\Exam1.Data\bin\Debug\netcoreapp3.1\Exam1.Data.pdb

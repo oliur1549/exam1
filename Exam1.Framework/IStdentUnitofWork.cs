@@ -7,7 +7,8 @@ namespace Exam1.Framework
 {
     public interface IStdentUnitofWork : IUnitOfWork, IDisposable
     {
+        ISubjectRepository SubjectRepository { get; set; }
         IStudentRepository StudentRepository { get; set; }
-        
+
     }
 }

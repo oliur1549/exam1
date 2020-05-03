@@ -7,6 +7,6 @@ namespace Exam1.Framework
     public interface IStudentService : IDisposable
     {
         void CreateStudent(Student student);
-        
+        void CreateSubject(Subject subject);
     }
 }

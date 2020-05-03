@@ -19,6 +19,12 @@ namespace Exam1.Framework
             _stdentUnitofWork.Save();
         }
 
+        public void CreateSubject(Subject subject)
+        {
+            _stdentUnitofWork.SubjectRepository.Add(subject);
+            _stdentUnitofWork.Save();
+        }
+
         public void Dispose()
         {
             _stdentUnitofWork?.Dispose();

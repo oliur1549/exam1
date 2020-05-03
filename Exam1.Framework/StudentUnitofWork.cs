@@ -8,13 +8,19 @@ namespace Exam1.Framework
 {
     public class StudentUnitofWork : UnitOfWork, IStdentUnitofWork
     {
-        public IStudentRepository StudentRepository { get; set; }
         public ISubjectRepository SubjectRepository { get; set; }
-        public StudentUnitofWork(DatabaseContext context, IStudentRepository studentRepository,ISubjectRepository subjectRepository)
+        public StudentUnitofWork(DatabaseContext context, ISubjectRepository subjectRepository)
             : base(context)
         {
-            StudentRepository = studentRepository;
+
             SubjectRepository = subjectRepository;
+        }
+        public IStudentRepository StudentRepository { get; set; }
+        public StudentUnitofWork(DatabaseContext context, IStudentRepository studentRepository)
+            : base(context)
+        {
+
+            StudentRepository = studentRepository;
         }
     }
 }

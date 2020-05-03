@@ -8,7 +8,7 @@ namespace Exam1.WebApplication.Areas.Admin.Models
 {
     public class SubjectModel : SubjectBaseModel
     {
-        public SubjectModel(ISubjectService subjectService) : base(subjectService) { }
+        public SubjectModel(IStudentService subjectService) : base(subjectService) { }
         public SubjectModel() : base() { }
 
         public string Name { get; set; }

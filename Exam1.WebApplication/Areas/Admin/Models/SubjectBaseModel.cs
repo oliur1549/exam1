@@ -9,14 +9,14 @@ namespace Exam1.WebApplication.Areas.Admin.Models
 {
     public class SubjectBaseModel : IDisposable
     {
-        protected readonly ISubjectService _studentService;
-        public SubjectBaseModel(ISubjectService studentService)
+        protected readonly IStudentService _studentService;
+        public SubjectBaseModel(IStudentService studentService)
         {
             _studentService = studentService;
         }
         public SubjectBaseModel()
         {
-            _studentService = Startup.AutofacContainer.Resolve<ISubjectService>();
+            _studentService = Startup.AutofacContainer.Resolve<IStudentService>();
         }
         public void Dispose()
         {

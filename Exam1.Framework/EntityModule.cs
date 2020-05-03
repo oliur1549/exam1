@@ -33,13 +33,7 @@ namespace Entity.Framework
             builder.RegisterType<StudentService>().As<IStudentService>()
                 .InstancePerLifetimeScope();
 
-            builder.RegisterType<SubjectUnitofWork>().As<ISubjectUnitofWork>()
-                .InstancePerLifetimeScope();
-
             builder.RegisterType<SUbjectRepository>().As<ISubjectRepository>()
-                .InstancePerLifetimeScope();
-
-            builder.RegisterType<SubjectService>().As<ISubjectService>()
                 .InstancePerLifetimeScope();
 
             base.Load(builder);
