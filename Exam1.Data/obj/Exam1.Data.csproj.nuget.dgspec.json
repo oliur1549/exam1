@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Exam1.WebApplication\\Exam1.Data\\Exam1.Data.csproj": {}
+    "C:\\Users\\TN-99263\\Desktop\\exam1\\Exam1.Data\\Exam1.Data.csproj": {}
   },
   "projects": {
-    "G:\\Exam1.WebApplication\\Exam1.Data\\Exam1.Data.csproj": {
+    "C:\\Users\\TN-99263\\Desktop\\exam1\\Exam1.Data\\Exam1.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Exam1.WebApplication\\Exam1.Data\\Exam1.Data.csproj",
+        "projectUniqueName": "C:\\Users\\TN-99263\\Desktop\\exam1\\Exam1.Data\\Exam1.Data.csproj",
         "projectName": "Exam1.Data",
-        "projectPath": "G:\\Exam1.WebApplication\\Exam1.Data\\Exam1.Data.csproj",
-        "packagesPath": "C:\\Users\\dawah\\.nuget\\packages\\",
-        "outputPath": "G:\\Exam1.WebApplication\\Exam1.Data\\obj\\",
+        "projectPath": "C:\\Users\\TN-99263\\Desktop\\exam1\\Exam1.Data\\Exam1.Data.csproj",
+        "packagesPath": "C:\\Users\\TN-99263\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TN-99263\\Desktop\\exam1\\Exam1.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dawah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TN-99263\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,10 +22,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -33,10 +35,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
@@ -48,7 +56,7 @@
             },
             "System.Linq.Dynamic.Core": {
               "target": "Package",
-              "version": "[1.1.0, )"
+              "version": "[1.4.6, )"
             }
           },
           "imports": [
@@ -57,16 +65,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
